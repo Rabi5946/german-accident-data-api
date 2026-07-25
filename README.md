@@ -1,3 +1,6 @@
+Project Title: German Accident Data API
+A backend API built with Node.js, Express, and MongoDB for analyzing German traffic accident datasets across multiple years. Includes district-level search, accident summaries, participant statistics, rate calculations, and metadata handling.
+
 1. Introduction
 The German Accident Data API provides programmatic access to multiple datasets:
 •	Accident datasets (2023 & 2024)
