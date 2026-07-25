@@ -16,17 +16,6 @@ Software
 •	Node.js (v18 or higher)
 •	MongoDB Community Server
 •	IDE (such as: VS Code)
-Project Structure
-Code
-/934743_project_database
-    /node_modules/
-    /utils/
-    server.js
-    swagger.js
-import_2023_directly.js
-  package.json
-package-lock.json
-municipality.xlsx
 
 3. Installation
 Step 1 — Install dependencies
